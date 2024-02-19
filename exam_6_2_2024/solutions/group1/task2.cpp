@@ -1,4 +1,4 @@
-#include <iostream>
+*#include <iostream>
 
 void countOfSmallerThanCount(const int arr[], size_t size, size_t i, int& count) {
 	for (size_t j = 0; j <= i; j++) {
